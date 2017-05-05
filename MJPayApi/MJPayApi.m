@@ -1,6 +1,6 @@
 //
 //  MJPayApi.m
-//  XianGuoYiHao
+//  http://www.jianshu.com/u/2a2051ad6a5d 简书博客
 //
 //  Created by YXCZ on 16/11/24.
 //  Copyright © 2016年 LMJ. All rights reserved.
